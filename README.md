@@ -1,21 +1,32 @@
-## 👋 &nbsp;Hi !
-<img src="https://komarev.com/ghpvc/?username=i1void&label=Total%20Profile%20Visitor&color=071A2C&style=for-the-badge" alt="i1void" />
+#### Hello!
 
-### &nbsp;About Me
+<picture>
+  <source
+    srcset="https://github-stats-extended.vercel.app/api/top-langs?username=i1void&layout=compact&langs_count=8&theme=github_dark_dimmed"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-stats-extended.vercel.app/api/top-langs?username=i1void&layout=compact&langs_count=8&theme=catppuccin_latte"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img
+    alt="Top languages"
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=i1void&layout=compact&langs_count=8&theme=catppuccin_latte"
+  />
+</picture>
 
-- 🏠 West Java.
+#### About Me
 
-### &nbsp;Personal Stuffs
+- 🏠 West Java, Indonesia
 
-- 💻 I’m currently learning JavaScript.
+#### Personal Stuff
 
-- ✨ Interested in Web development.
+- 💻 Currently learning JavaScript
+- ✨ Interested in web development
+- 🍂 Not a programmer, I just like studying, building, and experimenting with programs and other amazing things on the internet
 
--  🍂 Not a Programmer I just like studying, develop, and experiment 
-       with programs and amazing things on the internet.
+#### Languages & Frameworks I Use
 
-### &nbsp;Languages & Tools:
 
-  ![JavaScript](https://img.shields.io/badge/JavaScript-d6cc0f?style=for-the-badge&logo=javascript&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+![Languages & Frameworks I use](https://skillicons.dev/icons?i=js,ts,nodejs,mongodb,mysql,nextjs,docker,vscode,github)
